@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\Lectorpdf\Lectorpdf\obj\Debug\Lectorpdf.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Lectorpdf\Lectorpdf\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Usuario\source\repos\Lectorpdf\Lectorpdf\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Usuario\source\repos\Lectorpdf\Lectorpdf\obj\Debug\Lectorpdf.csproj.ResolveComReference.cache
+C:\Users\Usuario\source\repos\Lectorpdf\Lectorpdf\obj\Debug\Lectorpdf.Form1.resources
+C:\Users\Usuario\source\repos\Lectorpdf\Lectorpdf\obj\Debug\Lectorpdf.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Lectorpdf\Lectorpdf\obj\Debug\Lectorpdf.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Lectorpdf\Lectorpdf\obj\Debug\Lectorpdf.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Lectorpdf\Lectorpdf\bin\Debug\Lectorpdf.exe.config
+C:\Users\Usuario\source\repos\Lectorpdf\Lectorpdf\bin\Debug\Lectorpdf.exe
+C:\Users\Usuario\source\repos\Lectorpdf\Lectorpdf\bin\Debug\Lectorpdf.pdb
+C:\Users\Usuario\source\repos\Lectorpdf\Lectorpdf\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Usuario\source\repos\Lectorpdf\Lectorpdf\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Usuario\source\repos\Lectorpdf\Lectorpdf\obj\Debug\Lectorpdf.exe
+C:\Users\Usuario\source\repos\Lectorpdf\Lectorpdf\obj\Debug\Lectorpdf.pdb
